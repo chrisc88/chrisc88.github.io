@@ -4,25 +4,26 @@
 ---
 
 ### Metabase Dashboard (Prototype)
-<br></br>
+<br>
 <a target="_blank" href="https://chrisc88.github.io/images/MetabaseDashboard.jpg">
   <img src="https://chrisc88.github.io/images/MetabaseDashboard.jpg" alt="Dashboard" style="width:70%">
 </a>
-<br></br>
+<br>
+
 **Tech/Tooling:** Metabase, PostgreSQL, Excel
 
 ---
 
 ### Sales Reporting (User configurable groupings by: Department, Area, Category, SubCategory, Product, Customer, Employee, Hour) 
-<br></br>
+<br>
 <a target="_blank" href="https://chrisc88.github.io/images/SalesDepartment.jpg">
   <img src="https://chrisc88.github.io/images/SalesDepartment.jpg" alt="SalesDept" style="width:70%">
 </a>
-<br></br>
+<br>
 <a target="_blank" href="https://chrisc88.github.io/images/SalesProduct.jpg">
   <img src="https://chrisc88.github.io/images/SalesProduct.jpg" alt="SalesProduct" style="width:70%">
 </a>
-<br></br>
+<br>
 <a target="_blank" href="https://chrisc88.github.io/images/SalesHour.jpg">
   <img src="https://chrisc88.github.io/images/SalesHour.jpg" alt="SalesHour" style="width:70%">
 </a>
@@ -34,52 +35,52 @@
 <a target="_blank" href="https://chrisc88.github.io/images/InfoBanner.jpg">
   <img src="https://chrisc88.github.io/images/InfoBanner.jpg" alt="Banner" style="width:70%">
 </a>
-<br></br>
+<br>
 
 **Tech/Tooling:** PostMan, Leveraging: Weather Underground API & BRS API
 
 ---
 
 ### Automated Player Tagging & Color Coding
-<br></br>
+<br>
 <a target="_blank" href="https://chrisc88.github.io/images/Player_Slot_Coloring.jpg">
   <img src="https://chrisc88.github.io/images/Player_Slot_Coloring.jpg" alt="PlayerColor" style="width:70%">
 </a>
-<br></br>
+<br>
 _Above: Player tagging configuration page_
-<br></br>
+<br>
 <a target="_blank" href="https://chrisc88.github.io/images/PSCTeeSheet.jpg">
   <img src="https://chrisc88.github.io/images/PSCTeeSheet.jpg" alt="TeeSheet" style="width:70%">
 </a>
-<br></br>
+<br>
 _Above: Example of the player tagging in effect within the tee sheet_
  
 ---
 
 ### GL Summary Report
-<br></br>
+<br>
 <a target="_blank" href="https://chrisc88.github.io/images/GLSummary.jpg">
   <img src="https://chrisc88.github.io/images/GLSummary.jpg" alt="GLSummary" style="width:70%">
 </a>
-<br></br>
+<br>
 
 ---
 
 ### Accounting Reports (QuickBooks IIF & Great Plains)
-<br></br>
+<br>
 <a target="_blank" href="https://chrisc88.github.io/images/QBSales.jpg">
   <img src="https://chrisc88.github.io/images/QBSales.jpg" alt="QuickBooks" style="width:70%">
 </a>
-<br></br>
+<br>
 <a target="_blank" href="https://chrisc88.github.io/images/GPSales.jpg">
   <img src="https://chrisc88.github.io/images/GPSales.jpg" alt="QuickBooks" style="width:70%">
 </a>
-<br></br>
+<br>
 
 ---
 
 ### PayFac - Settlement Report
-<br></br>
+<br>
 <a target="_blank" href="https://chrisc88.github.io/images/SettlementReport.jpg">
   <img src="https://chrisc88.github.io/images/SettlementReport.jpg" alt="Settlement" style="width:70%">
 </a>
@@ -87,7 +88,7 @@ _Above: Example of the player tagging in effect within the tee sheet_
 ---
 
 ### PayFac - Transaction Report
-<br></br>
+<br>
 <a target="_blank" href="https://chrisc88.github.io/images/TransactionsReport.jpg">
   <img src="https://chrisc88.github.io/images/TransactionsReport.jpg" alt="Settlement" style="width:70%">
 </a>
