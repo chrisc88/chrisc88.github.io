@@ -1,63 +1,100 @@
+<a name="top"></a>
 ## Portfolio
 
 ---
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  border: 1px solid #ddd;
-  border-radius: 2px;
-  padding: 2px;
-  width: 150px;
-}
-
-img:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-}
-</style>
-</head>
-<body>
 
 ### Metabase Dashboard (Prototype)
+<br></br>
 <a target="_blank" href="https://chrisc88.github.io/images/MetabaseDashboard.jpg">
-  <img src="https://chrisc88.github.io/images/MetabaseDashboard.jpg" alt="Dashboard" style="width:50%">
+  <img src="https://chrisc88.github.io/images/MetabaseDashboard.jpg" alt="Dashboard" style="width:70%">
 </a>
-
-<body>
-</html>
-
+<br></br>
 **Tech/Tooling:** Metabase, PostgreSQL, Excel
 
 ---
 
 ### Sales Reporting (User configurable groupings by: Department, Area, Category, SubCategory, Product, Customer, Employee, Hour) 
-<img src="https://chrisc88.github.io/images/SalesDepartment.jpg" style="width:50%">
-<img src="https://chrisc88.github.io/images/SalesProduct.jpg" style="width:50%">
-<img src="https://chrisc88.github.io/images/SalesHour.jpg" style="width:50%">
-
+<br></br>
+<a target="_blank" href="https://chrisc88.github.io/images/SalesDepartment.jpg">
+  <img src="https://chrisc88.github.io/images/SalesDepartment.jpg" alt="SalesDept" style="width:70%">
+</a>
+<br></br>
+<a target="_blank" href="https://chrisc88.github.io/images/SalesProduct.jpg">
+  <img src="https://chrisc88.github.io/images/SalesProduct.jpg" alt="SalesProduct" style="width:70%">
+</a>
+<br></br>
+<a target="_blank" href="https://chrisc88.github.io/images/SalesHour.jpg">
+  <img src="https://chrisc88.github.io/images/SalesHour.jpg" alt="SalesHour" style="width:70%">
+</a>
 
 ---
 
 ### TeeSheet Weather/Revenue Banner (Highlighted in red and noted with an arrow)
-<img src="https://chrisc88.github.io/images/InfoBanner.jpg" style="width:75%">
+
+<a target="_blank" href="https://chrisc88.github.io/images/InfoBanner.jpg">
+  <img src="https://chrisc88.github.io/images/InfoBanner.jpg" alt="Banner" style="width:70%">
+</a>
+<br></br>
 
 **Tech/Tooling:** PostMan, Leveraging: Weather Underground API & BRS API
 
 ---
 
 ### Automated Player Tagging & Color Coding
-<img src="https://chrisc88.github.io/images/Player_Slot_Coloring.jpg" style="width:70%">
-
-Above: Player tagging configuration page
-
-<img src="https://chrisc88.github.io/images/PSCTeeSheet.jpg" style="width:70%">
-
-Above: Example of the Player tagging in effect directly within the Tee Sheet
+<br></br>
+<a target="_blank" href="https://chrisc88.github.io/images/Player_Slot_Coloring.jpg">
+  <img src="https://chrisc88.github.io/images/Player_Slot_Coloring.jpg" alt="PlayerColor" style="width:70%">
+</a>
+<br></br>
+_Above: Player tagging configuration page_
+<br></br>
+<a target="_blank" href="https://chrisc88.github.io/images/PSCTeeSheet.jpg">
+  <img src="https://chrisc88.github.io/images/PSCTeeSheet.jpg" alt="TeeSheet" style="width:70%">
+</a>
+<br></br>
+_Above: Example of the player tagging in effect within the tee sheet_
  
 ---
 
-### Excel Macro - Compile and Summarize Date
+### GL Summary Report
+<br></br>
+<a target="_blank" href="https://chrisc88.github.io/images/GLSummary.jpg">
+  <img src="https://chrisc88.github.io/images/GLSummary.jpg" alt="GLSummary" style="width:70%">
+</a>
+<br></br>
+
+---
+
+### Accounting Reports (QuickBooks IIF & Great Plains)
+<br></br>
+<a target="_blank" href="https://chrisc88.github.io/images/QBSales.jpg">
+  <img src="https://chrisc88.github.io/images/QBSales.jpg" alt="QuickBooks" style="width:70%">
+</a>
+<br></br>
+<a target="_blank" href="https://chrisc88.github.io/images/GPSales.jpg">
+  <img src="https://chrisc88.github.io/images/GPSales.jpg" alt="QuickBooks" style="width:70%">
+</a>
+<br></br>
+
+---
+
+### PayFac - Settlement Report
+<br></br>
+<a target="_blank" href="https://chrisc88.github.io/images/SettlementReport.jpg">
+  <img src="https://chrisc88.github.io/images/SettlementReport.jpg" alt="Settlement" style="width:70%">
+</a>
+
+---
+
+### PayFac - Transaction Report
+<br></br>
+<a target="_blank" href="https://chrisc88.github.io/images/TransactionsReport.jpg">
+  <img src="https://chrisc88.github.io/images/TransactionsReport.jpg" alt="Settlement" style="width:70%">
+</a>
+
+---
+
+### Excel Macro - Compile and Summarize PayFac Data
 
 ```VBA
 Sub SummarySheet()
@@ -264,11 +301,6 @@ Sub SummarySheet()
 End Sub
 ```
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+<a href="#top">Back to top of page</a>
