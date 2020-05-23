@@ -92,7 +92,7 @@ Certificates
 ------
 **AML** Oct 2019
 
-_Anti-Money Laundering_
+_FINRA Anti-Money Laundering_
 
 **Certified Scrum Product Owner** April 2017
 
