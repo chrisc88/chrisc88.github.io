@@ -1,7 +1,7 @@
 Christopher Cooper
 ======
  
-###### [ [github.com/chrisc88](https://github.com/chrisc88/chrisc88.github.io/blob/master/Resume.md) ] . [ [chris.cooper.ofl@gmail.com](mailto:chris.cooper.ofl@gmail.com) ] . [ [Project Samples](https://github.com/chrisc88/chrisc88.github.io/blob/master/Resume.md) ]
+###### [ [github.com/chrisc88](https://chrisc88.github.io/Resume) ] . [ [chris.cooper.ofl@gmail.com](mailto:chris.cooper.ofl@gmail.com) ] . [ [Portfolio](https://chrisc88.github.io/Portfolio) ]
 
 
 Current Employment
