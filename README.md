@@ -1,4 +1,4 @@
-My goal for this project is to provide you with an easily accessible and shareable form of my resume.  In doing so, I found myself exploring and learning Github and Git Pages for the first time.
+Hello and welcome to my resume and portofolio page. I set out with the goal of finding a way to provide you with an easily accessible and shareable form of my resume.  In doing so, I found myself exploring and learning Github and Git Pages for the first time.
 
 Within this repository, you will find a couple pages which are outlined below.
 - **[Resume](https://chrisc88.github.io/Resume):** Provides a web-based version of my resume that I encourage you share!
