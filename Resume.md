@@ -1,0 +1,106 @@
+Christopher Cooper
+======
+ 
+###### [ [github.com/chrisc88](https://github.com/chrisc88/chrisc88.github.io/blob/master/Resume.md) ] . [ [chris.cooper.ofl@gmail.com](mailto:chris.cooper.ofl@gmail.com) ] . [ [Project Samples](https://github.com/chrisc88/chrisc88.github.io/blob/master/Resume.md) ]
+
+
+Current Employment
+---------
+**GolfNow, Golf Business Solutions** Oct 2016 - Present
+
+*Lead Business Analyst*
+
+- Leading the venture into payments processing with an adoption increase
+from 0 to 901 clients YTD
+
+- Research & gather requirements for converting eMAF files into C-level
+reporting
+
+- Self-taught VBA macros to compile interim reporting for C-level stakeholders
+quickly and efficiently
+
+- Conduct user interviews to write concise requirements for end user
+transactional and settlement reporting
+
+- Perform quarterly audits of transactional interchange rates to identify where I
+can increase revenue while cutting costs for our clients
+
+- Actively manage card present & card not present disputes for all 901 clients
+
+- Assess ACH rejections and reach out to clients to rectify
+
+- Establish client onboarding procedures that are compliant with CDD, AML, SBA and FinCEN policies
+
+- Create and manage feedback campaigns to identify the largest pain points in our cloud-based POS to direct the products roadmap
+
+- Lead a data services team to improve SSRS reporting from the largest pain-point to the highest rated feature in our cloud-based POS
+
+- Consult the QA division with the objective to refine UAT, and end-to-end regression testing processes to identify bugs and inefficiencies pre-release
+
+- Implement business process improvements for client reported issues to flow through Salesforce and Jira integration
+
+- Design and code a prototype Metabase dashboard using PostgreSQL to kick start the company initiative for an end user dashboard
+
+**_Technology and Tooling Used:_** _Excel, VBA, Metabase, PostgreSQL, PostMan, Jira, Confluence, Salesforce_
+
+
+Previous Employment
+---------
+**GolfNow** July 2015 - Oct 2016
+
+*Third Party Specialist*
+
+- Manage on-site and off-site inventory exceeding 8,000 assets by creating an internal asset tracking system
+
+- Reduce inventory costs by $50,000 for 2017 through price negotiations with vendors and sourcing alternative products
+
+- Provide detailed ad-hoc reporting for VP of Finance
+
+- Developed procurement, record keeping, and logistics processes
+
+- Implement an RMA process for in-house and external inventory returns
+
+- Eliminate non-value adding legacy processes inherited through acquisitions
+
+**_Technology and Tooling Used:_** _Excel, Salesforce_
+
+
+Core Competencies & Technical Skills
+---------
+
+- User Stories
+- Eliciting Requirements
+- Gap Analysis
+- Project Management
+- Business Process Improvements
+- Jira
+- Confluence
+- Salesforce
+- Excel
+- VBA
+- Postman
+
+
+Education
+---------
+**Seminole State College** 2010 - 2015
+
+_B.S. Business Administration_
+
+
+Certificates
+------
+**AML** Oct 2019
+
+_Anti-Money Laundering_
+
+**Certified Scrum Product Owner** April 2017
+
+
+Awards
+------
+**GEM** May 2016, April 2018, Sept 2019
+
+_Going the Extra Mile - GolfNow_
+
+
