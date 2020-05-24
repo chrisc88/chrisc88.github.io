@@ -73,12 +73,15 @@ Core Competencies & Technical Skills
 - Gap Analysis
 - Project Management
 - Business Process Improvements
+- Agile
+- Scrum
 - Jira
 - Confluence
 - Salesforce
 - Excel
 - VBA
 - Postman
+- SQL
 
 
 Education
