@@ -8,24 +8,19 @@ Current Employment
 ---------
 **GolfNow, Golf Business Solutions** Oct 2016 - Present
 
-*Lead Business Analyst*
+*Lead FinTech Business Analyst*
 
-- Leading the venture into payments processing with an adoption increase
-from 0 to 901 clients YTD
+- Lead contributor to increasing client adoption by 969, and increasing processing volume by $461 MM since 2019
 
-- Research & gather requirements for converting eMAF files into C-level
-reporting
+- Leading a team of four to manage all card present & card not present disputes on behalf of our merchant partners
 
-- Self-taught VBA macros to compile interim reporting for C-level stakeholders
-quickly and efficiently
+- Research & gather requirements for converting eMAF files into C-level reporting
 
-- Conduct user interviews to write concise requirements for end user
-transactional and settlement reporting
+- Self-taught VBA macros to compile interim reporting for C-level stakeholders when we did not have data service resources
 
-- Perform quarterly audits of transactional interchange rates to identify where I
-can increase revenue while cutting costs for our clients
+- Conduct user interviews to write concise requirements for end user transactional and settlement reporting
 
-- Actively manage card present & card not present disputes for all 901 clients
+- Perform quarterly audits of transactional interchange rates to identify where I can increase revenue while cutting costs for our clients
 
 - Assess ACH rejections and reach out to clients to rectify
 
@@ -33,13 +28,13 @@ can increase revenue while cutting costs for our clients
 
 - Create and manage feedback campaigns to identify the largest pain points in our cloud-based POS to direct the products roadmap
 
-- Lead a data services team to improve SSRS reporting from the largest pain-point to the highest rated feature in our cloud-based POS
+- Lead a data services team to improve SSRS reporting from the largest pain-point to the highest rated feature in GolfNow's cloud-based point of sale
 
 - Consult the QA division with the objective to refine UAT, and end-to-end regression testing processes to identify bugs and inefficiencies pre-release
 
 - Implement business process improvements for client reported issues to flow through Salesforce and Jira integration
 
-- Design and code a prototype Metabase dashboard using PostgreSQL to kick start the company initiative for an end user dashboard
+- Design and code a prototype dashboard in Metabase using PostgreSQL
 
 **_Technology and Tooling Used:_** _Excel, VBA, Metabase, PostgreSQL, PostMan, Jira, Confluence, Salesforce_
 
