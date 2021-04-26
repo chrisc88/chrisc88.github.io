@@ -14,6 +14,8 @@ Current Employment
 
 - Leading a team of four to manage all card present & card not present disputes on behalf of our merchant partners
 
+- Established processes and tech to identify individuals committing credit card fraud within our services
+
 - Research & gather requirements for converting eMAF files into C-level reporting
 
 - Self-taught VBA macros to compile interim reporting for C-level stakeholders when we did not have data service resources
