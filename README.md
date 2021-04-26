@@ -1,6 +1,6 @@
 Hello and welcome to my resume and portfolio page! 
 
-My name is Christopher Cooper, I am a father to the most amazing son in the world.  If we are not out on our mountain bikes shredding the finest trails that Florida has to offer, then we are attempting to expand our talents in the finer things such as water coloring. 
+My name is Christopher Cooper, I am a father to the most amazing son in the world.  If we are not out on our mountain bikes shredding the finest trails that Florida has to offer, then we are attempting to expand our talents in the finer things life has to offer, such as water coloring. 
 
 From a growth and personal development aspect, I am currently reading Greenlights by Matthew McConaughey, working through a Google certification on Data Analytics, and learning about WordPress, WooCommerce, and drop-shipping.
 
