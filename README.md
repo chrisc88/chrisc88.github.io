@@ -1,9 +1,16 @@
-Hello and welcome to my resume and portofolio page. I set out with the goal of finding a way to provide you with an easily accessible and shareable form of my resume.  In doing so, I found myself exploring and learning Github and Git Pages for the first time.
+Hello and welcome to my resume and portofolio page! 
+
+My name is Christopher Cooper, I am a father to the most amazing 6 year old in the world.  If we are not out on our mountain bikes shredding the finest trails that Florida has to offer then we are attempting to expand our talents in the finer things such as water coloring. 
+
+From a growth and personal development aspect, I am currently reading Greenlights by Matthew McConaughey, working through a Google certification on Data Analytics, and learning about WordPress, WooCommerce and drop-shipping.
+
+Originally, I set out with the goal of finding a way to provide you with an easily accessible and shareable form of my resume.  In doing so, I found myself exploring and learning Github and Git Pages for the first time.
 
 Within this repository, you will find a couple pages which are outlined below.
 - **[Resume](https://chrisc88.github.io/Resume):** Provides a web-based version of my resume that I encourage you share!
-- **[Portfolio](https://chrisc88.github.io/Portfolio):** Features or snippets of work which I have been a key contributor to. Most of these samples are pulled from a RC testing environment or directly from Prod (masked sensitive data).
+- **[Portfolio](https://chrisc88.github.io/Portfolio):** Features or bodies of work which I have been a key contributor. Most of these samples are pulled from a testing environment or directly from Prod (masked sensitive data).
 
-Thank you for taking the time to visit and please reach out if you feel I can add value to your team!
+Thank you for stopping by and taking the time to learn a little bit about me.  Please reach out if you feel I can add value to your team!
 
+Best,
 Christopher Cooper
