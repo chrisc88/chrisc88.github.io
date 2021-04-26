@@ -10,7 +10,7 @@ Current Employment
 
 *Lead FinTech Business Analyst*
 
-- Lead contributor to increasing client adoption by 969, and increasing processing volume by $461 MM since 2019
+- Lead contributor to increasing client adoption by 969, and processing volume by $461 MM since 2019
 
 - Leading a team of four to manage all card present & card not present disputes on behalf of our merchant partners
 
