@@ -13,7 +13,7 @@ Within this repository, you will find a couple pages which are outlined below.
 Thank you for stopping by and taking the time to learn a little bit about me.  Please reach out if you feel I can add value to your team!
 
 <p align="center">
-    <img src="https://chrisc88.github.io/images/QR.png">
+    <img width="300" height="300" src="https://chrisc88.github.io/images/QR.png">
 </p>
 
 Best,
