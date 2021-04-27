@@ -10,27 +10,27 @@ Current Employment
 
 *Lead FinTech Business Analyst*
 
-- Lead contributor to increasing client adoption by 969, and processing volume by $461 MM since 2019
+- Increased payment client adoption by 969, and processing volume by $461 MM since 2019
 
-- Leading a team of four to manage all card present & card not present disputes on behalf of our merchant partners
+- Leading a team of four to manage all processing disputes on behalf of the merchant partners
 
-- Established processes and tech to identify individuals committing credit card fraud within our services
+-Designed a system to identify individuals committing fraud within GolfNow's portfolio of services
 
-- Research & gather requirements for converting eMAF files into C-level reporting
+- Research & gathered requirements for converting eMAF files into C-level reporting
 
 - Self-taught VBA macros to compile interim reporting for C-level stakeholders when we did not have data service resources
 
 - Conduct user interviews to write concise requirements for end user transactional and settlement reporting
 
-- Perform quarterly audits of transactional interchange rates to identify where I can increase revenue while cutting costs for our clients
+- Perform quarterly audits of transactional interchange rates to identify where I can increase revenue while cutting costs for clients
 
 - Assess ACH rejections and reach out to clients to rectify
 
 - Establish client onboarding procedures that are compliant with CDD, AML, SBA and FinCEN policies
 
-- Create and manage feedback campaigns to identify the largest pain points in our cloud-based POS to direct the products roadmap
+- Direct product roadmaps by creating and managing feedback campaigns to identify the largest pain points in GolfNow's cloud-based point of sale
 
-- Lead a data services team to improve SSRS reporting from the largest pain-point to the highest rated feature in GolfNow's cloud-based point of sale
+- Lead a data services team to improve SSRS reporting from the largest pain-point to the highest rated feature in the point of sale
 
 - Consult the QA division with the objective to refine UAT, and end-to-end regression testing processes to identify bugs and inefficiencies pre-release
 
@@ -51,7 +51,7 @@ Previous Employment
 
 - Reduce inventory costs by $50,000 for 2017 through price negotiations with vendors and sourcing alternative products
 
-- Provide detailed ad-hoc reporting for VP of Finance
+- Provide detailed ad-hoc reporting for the VP of Finance
 
 - Developed procurement, record keeping, and logistics processes
 
