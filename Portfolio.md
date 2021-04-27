@@ -1,6 +1,6 @@
 <a name="top"></a>
 ## Portfolio
-###### [ [Resume](https://chrisc88.github.io/Resume) ] . [ [chris.cooper.ofl@gmail.com](mailto:chris.cooper.ofl@gmail.com) ]
+###### [ 407.259.0025 ] . [ [chris.cooper.ofl@gmail.com](mailto:chris.cooper.ofl@gmail.com) ] . [ [Resume](https://chrisc88.github.io/Resume) ]
 
 ---
 
