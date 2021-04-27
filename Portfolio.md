@@ -1,6 +1,6 @@
 <a name="top"></a>
 ## Portfolio
-###### [ 407-259-0025 ](tel:+14072590025) . [ [chris.cooper.ofl@gmail.com](mailto:chris.cooper.ofl@gmail.com) ] . [ [Resume](https://chrisc88.github.io/Resume) ]
+###### [[ 407-259-0025 ]](tel:+14072590025) . [ [chris.cooper.ofl@gmail.com](mailto:chris.cooper.ofl@gmail.com) ] . [ [Resume](https://chrisc88.github.io/Resume) ]
 
 ---
 
