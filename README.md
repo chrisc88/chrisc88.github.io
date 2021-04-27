@@ -13,6 +13,7 @@ Within this repository, you will find a couple pages which are outlined below.
 Thank you for stopping by and taking the time to learn a little bit about me.  Please reach out if you feel I can add value to your team!
 
 Best,
+
 Christopher Cooper
 
 <p align="center">
