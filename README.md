@@ -1,3 +1,11 @@
+---
+title:""
+output:
+    hmtl_document:
+        includes:
+            in_header: ga.html
+---
+
 Hello and welcome to my resume and portfolio page! 
 
 Originally, I set out with the goal of finding a way to provide you with an easily accessible and shareable form of my resume and portfolio.  In doing so, I found myself exploring and learning Github and Git Pages for the first time.
@@ -12,6 +20,3 @@ Best,
 
 Christopher Cooper
 
-<p align="center">
-    <img width="300" height="300" src="https://chrisc88.github.io/images/QR.png">
-</p>
