@@ -14,7 +14,7 @@ Current Employment
 
 - Leading a team of four to manage all processing disputes on behalf of the merchant partners
 
--Designed a system to identify individuals committing fraud within GolfNow's portfolio of services
+- Designed a system to identify individuals committing fraud within GolfNow's portfolio of services
 
 - Research & gathered requirements for converting eMAF files into C-level reporting
 
