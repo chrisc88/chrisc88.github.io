@@ -1,7 +1,7 @@
 Christopher Cooper
 ======
  
-###### [[ 407-259-0025 ]](tel:+14072590025) . [ [chris.cooper.ofl@gmail.com](mailto:chris.cooper.ofl@gmail.com) ] . [ [Portfolio](https://chrisc88.github.io/Portfolio) ] . [ [LinkedIn](www.linkedin.com/in/chris-cooper88)]
+###### [[ 407-259-0025 ]](tel:+14072590025) . [ [chris.cooper.ofl@gmail.com](mailto:chris.cooper.ofl@gmail.com) ] . [ [Portfolio](https://chrisc88.github.io/Portfolio) ] . [ [LinkedIn](www.linkedin.com/in/chris-cooper88)] . [ [Resume PDF](https://chrisc88.github.io/ChrisCooper_Resume.pdf)]
 
 Profile
 ---------
