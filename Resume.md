@@ -5,7 +5,7 @@ Christopher Cooper
 
 Profile
 ---------
-*Business Analyst with a track record of delivering B2B solutions for complex issues spanning across cloud-based point of sale, SSRS reporting, and FinTech projects. Through the 5 years of my progressive experience, I have focused on data analysis, gap analysis, and stakeholder interviews to influence and drive product roadmaps. Effective collaboration with business and technical teams to drive out inefficiencies, reduce cost, and increase revenue. If there is a way to get it done, I will quickly identify, and deliver.*
+Customer driven and data-oriented Business Analyst with a proven track record delivering and supporting innovative and efficient solutions for SaaS projects among cross-functional teams.  Adept in identifying gaps, business process inefficiencies, data analysis, and managing features through SDLC.
 
 Experience
 ---------
@@ -13,52 +13,55 @@ Experience
 
 *FinTech Business Analyst*
 
-- Increased payment client adoption by 969, and processing volume by $461 MM since 2019 via onboarding automation, KYC refinement, and end-user cloud portal integration
+-	Increased payment client adoption by 969 merchants, and processing volume by $461 MM since 2019
 
-- Leading a team of four to manage, and respond to all processing disputes on behalf of the merchant partners
+-	Headed a team of four to manage, and respond 6,800 transactional disputes on behalf of the business partners
 
-- Designed a system to identify individuals committing fraud within NBC Sports Group's portfolio of services
+-	Designed a fraud system to analyze chargeback frequency and volume processing through NBC Sports Group’s portfolio of services and validate the need for AVS and CVV verification
 
-- Research & gathered requirements for converting eMAF files into C-level reporting
+-	Spearheaded the analysis of WorldPay’s eMAF file, identifying erroneous reporting of over 200,000 transactions 
 
-- Self-taught VBA macros to compile interim reporting for C-level stakeholders when we did not have data service resources
+-	Used VBA to compile ad-hoc reporting for C-level stakeholders when data service resources were not available to generate formal reports
 
-- Conduct user interviews to write concise requirements for end user transactional and settlement reporting
+-	Conducted user interviews and gap analysis to write concise requirements for end user transactional and batch settlement SSRS reporting
 
-- Perform quarterly audits of transactional interchange rates to identify where I can cut costs and increase revenue
+-	Processed WorldPay’s REST API documentation to identify pertinent fields for implementing a chargeback management portal
 
-- Identify and mitigate ACH rejections
+-	Automated the merchant onboarding process to handle adoption volume efficiently while adhering to KYC guidelines
+
+-	Performed quarterly audits of interchange rates; identifying opportunities to reduce cost and increase revenue by passing Level II processing data
+
+-	Composed end-user documentation and tutorials ranging from reconciliation to chargeback management best practices
 
 
 **GolfNow** 2016 - 2019
 
-- Lead a data services team to improve SSRS reporting from the largest pain-point to the highest rated feature in the point of sale
+-	Oversaw data services efforts as the reporting SME to improve SSRS reporting from the largest pain-point to the highest rated feature in the point of sale
 
-- Direct product roadmaps by creating and managing feedback campaigns to identify the largest pain points in GolfNow's cloud-based point of sale
+-	Directed product roadmaps by creating and managing feedback campaigns to identify impactful gaps and issues
 
-- Consulted the QA division with the objective to refine UAT, and end-to-end regression testing processes to identify bugs and inefficiencies pre-release
+-	Consulted the QA division to refine UAT, and end-to-end regression testing processes to identify bugs and inefficiencies that were plaguing prior releases
 
-- Implement business process improvements for client reported issues to flow through Salesforce and Jira integration
+-	Implemented business process improvements for client reported issues to flow through Salesforce and Jira integrations
 
-- Design and code a prototype dashboard in Metabase using PostgreSQL
+-	Designed and wrote a prototype reporting dashboard in Metabase using PostgreSQL after receiving pushback that it couldn’t be done
 
 
 **GolfNow** 2015 - 2016
 
 *Third Party Specialist*
 
-- Manage on-site and off-site inventory exceeding 8,000 assets by creating an internal asset tracking system
+-	Managed on-site and off-site inventory exceeding 8,000 assets by creating an internal asset tagging and tracking system
 
-- Reduce inventory costs by $50,000 for 2017 through price negotiations with vendors and sourcing alternative products
+-	Reduce inventory costs by $50,000 for 2017 through price negotiations with vendors and sourcing alternative and better fitting products
 
-- Provide detailed ad-hoc reporting for the VP of Finance
+-	Provided detailed reporting for the VP of Finance capturing historical and forward-looking procurement and asset management trends
 
-- Developed procurement, record keeping, and logistics processes
+-	Developed and integrated procurement, record keeping, and logistics processes
 
-- Implement an RMA process for in-house and external inventory returns
+-	Implemented an RMA process for in-house and external inventory returns
 
-- Eliminate non-value adding legacy processes inherited through acquisitions
-
+-	Eliminated non-value adding legacy processes inherited through mergers and acquisitions
 
 
 Core Proficiencies
@@ -69,9 +72,9 @@ Core Proficiencies
 - Gap Analysis
 - Project Management
 - Business Process Improvements
-- Agile Methodology
+- Agile
 - Scrum
-- Excel Functions, Formulas, VBA
+- Excel Charting, Functions, and Formulas
 - JIRA
 - Confluence
 
